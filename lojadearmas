@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dia da Mentira</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 18px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+    <h1>DIA DA MENTIRA! Na verdade, preparamos outra atividade pra você.</h1>
+    <br>
+    <button onclick="window.open('https://interacty.me/projects/bd72edf2bfc41e84', '_blank')">Clique aqui para participar da atividade!</button>
+</body>
+</html>
